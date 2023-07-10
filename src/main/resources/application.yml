@@ -1,0 +1,9 @@
+storage:
+  location: files/data/
+  schema: files/schema/
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB

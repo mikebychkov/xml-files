@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epaperRequest>
+  <deviceInfo name="Browser" id="test@comp">
+    <screenInfo width="1280" height="752" dpi="160" />
+    <appInfo>
+      <newspaperName>abb</newspaperName>
+      <version>1.0</version>
+    </appInfo>
+  </deviceInfo>
+</epaperRequest>
